@@ -1,0 +1,32 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.black-box{
+    background-color: black;
+    height: 29px;
+}
+
+.blue-box{
+    background-color: dodgerblue;
+    height: 29px;
+}
+
+.lightblue-box{
+    background-color: #37c5c5;
+    height: 29px;
+}
+
+.grey-box{
+    background-color:#8a817c ;
+    height: 29px;
+}
+
+
+.ghost{
+    height: 50px;
+}
